@@ -1,3 +1,17 @@
+# ECE 4424 Machine Learning Final Project
+
+All additional work done for this final project can be found in the following files
+
+**Added Files**
+- **additional_biases.ipynb**: Main experimental file with outputs from test runs
+- **age_definitional_pairs.json**: The ten pairs of words used to define age direction
+- **age_equalize_pairs.json**: Some crowdsourced Elderly-Youthful pairs of words that represent age direction
+- **age_specific_seed.json**: A list of age specific words
+- **se_definitional_pairs.json**: The ten pairs of words used to define socioeconomic direction
+- **se_equalize_pairs.json**: Some crowdsourced Wealthy-Impoverished pairs of words that represent socioeconomic direction
+- **se_specific_seed.json**: A list of socioeconomic specific words
+
+
 # Debiaswe: try to make word embeddings less sexist
 
 &#x1F534;[FAT* 2018 tutorial slides](https://drive.google.com/file/d/1IxIdmreH4qVYnx68QVkqCC9-_yyksoxR/view?usp=sharing)
